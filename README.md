@@ -17,6 +17,4 @@ El codigo se divide en dos modulos:
   
   ![alt text](https://github.com/diegodrg27/CSUNSA-Seminario-de-Tesis-Codigo-Fuente/blob/master/Analisis%20de%20Imagen/resultados/accuracy.png)
 
-![alt text](https://github.com/diegodrg27/CSUNSA-Seminario-de-Tesis-Codigo-Fuente/blob/master/Analisis%20de%20Imagen/resultados/validation%20loss.png)
-
 ![alt text](https://github.com/diegodrg27/CSUNSA-Seminario-de-Tesis-Codigo-Fuente/blob/master/Analisis%20de%20Imagen/resultados/sam3.png)
