@@ -22,3 +22,5 @@ El codigo se divide en dos modulos:
   En la siguiente imagen podemos ver ejemplos de falsos negativos 
 
 ![alt text](https://github.com/diegodrg27/CSUNSA-Seminario-de-Tesis-Codigo-Fuente/blob/master/Analisis%20de%20Imagen/resultados/sam3.png)
+
+En cuanto al procesamiento de imagenes para obtener regiones locales a partir de su objetiveness score se empleó opencv.
