@@ -13,9 +13,10 @@ El codigo se divide en dos modulos:
 - Analisis de Imagenes
   En este módulo contiene el codigo para el analisis de sentimientos en imagenes empleando una red neuronal en keras y empleando objectness score.
   
-  En cuanto a la red neuronal el modelo fue construido y entrenado en Keras. Las imagenes se separaron 70% para entrenamiento y 30% para testing, cada una de ellas fue redimensionado en tamaños de 100x100. En cuanto a los resultados se obtuvo una precisión de entrenamiento de 0.725 y validación 0.87. 
+  En cuanto a la red neuronal el modelo fue construido y entrenado en Keras. Las imagenes se separaron 70% para entrenamiento y 30% para testing, cada una de ellas fue redimensionado en tamaños de 100x100, por lo que afectó los resultados del entrenamiento y validación. En cuanto a los resultados se obtuvo una precisión de entrenamiento de 0.725 y validación 0.87. 
   
   ![alt text](https://github.com/diegodrg27/CSUNSA-Seminario-de-Tesis-Codigo-Fuente/blob/master/Analisis%20de%20Imagen/resultados/accuracy.png)
 
 ![alt text](https://github.com/diegodrg27/CSUNSA-Seminario-de-Tesis-Codigo-Fuente/blob/master/Analisis%20de%20Imagen/resultados/validation%20loss.png)
 
+![alt text](https://github.com/diegodrg27/CSUNSA-Seminario-de-Tesis-Codigo-Fuente/blob/master/Analisis%20de%20Imagen/resultados/sam3.png)
