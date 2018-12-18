@@ -15,6 +15,10 @@ El codigo se divide en dos modulos:
   
   En cuanto a la red neuronal el modelo fue construido y entrenado en Keras. Las imagenes se separaron 70% para entrenamiento y 30% para testing, cada una de ellas fue redimensionado en tamaños de 100x100, por lo que afectó los resultados del entrenamiento y validación. En cuanto a los resultados se obtuvo una precisión de entrenamiento de 0.725 y validación 0.87. 
   
+   ![alt text](https://github.com/diegodrg27/CSUNSA-Seminario-de-Tesis-Codigo-Fuente/blob/master/Analisis%20de%20Imagen/resultados/resultados.PNG)
+  
   ![alt text](https://github.com/diegodrg27/CSUNSA-Seminario-de-Tesis-Codigo-Fuente/blob/master/Analisis%20de%20Imagen/resultados/accuracy.png)
+  
+  En la siguiente imagen podemos ver ejemplos de falsos negativos 
 
 ![alt text](https://github.com/diegodrg27/CSUNSA-Seminario-de-Tesis-Codigo-Fuente/blob/master/Analisis%20de%20Imagen/resultados/sam3.png)
